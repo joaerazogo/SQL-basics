@@ -24,7 +24,7 @@ pip install traitlets
 #### Paso 3
 Instale MySQL server
 
-Habra Terminal y ejecute los siguientes comandos:
+Abra Terminal y ejecute los siguientes comandos:
 
 ```
 sudo apt-get update
